@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.wrapper img {
+  max-width: 300px;
+  width: 100%;
+  display: block;
+}
